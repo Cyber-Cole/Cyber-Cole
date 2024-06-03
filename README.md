@@ -5,6 +5,7 @@
 - [Active Directory Home Lab](https://github.com/Cyber-Cole/LABURL)
 - [Digital Forensics with Autopsy](https://github.com/Cyber-Cole/Digital_Forensics_with_Autopsy)
 - [MySQL Database](https://github.com/Cyber-Cole/MySQL_Database_Lab)
+- [Network Analysis with Nmap and Wireshark](https://github.com/Cyber-Cole/Network_Analysis_with_NMAP_and_Wireshark)
 
 <h2>Certifications</h2>
 
