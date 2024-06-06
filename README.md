@@ -21,9 +21,6 @@
 - [CompTIA Project+](https://www.credly.com/badges/2713a04d-6a9b-4c92-b052-9b33cef396d1/public_url)
 - [CompTIA A+](https://www.credly.com/badges/a582c6c3-d20c-43de-8f03-fb1e1fe6005b/public_url)
   
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
